@@ -1,0 +1,4 @@
+flet==0.28.2
+pandas==2.2.2
+reportlab==4.0.4
+pypdf==4.0.1

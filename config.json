@@ -1,0 +1,19 @@
+{
+  "app": {
+    "name": "Flet UI Customization Demo",
+    "version": "1.0.0"
+  },
+  "colors": {
+    "primary": "#1B5A1A",
+    "secondary": "#625B71",
+    "surface": "#FFFBFE",
+    "background": "#FFFBFE"
+  },
+  "fonts": {
+    "default": "assets/fonts/TsukuhouMincho-Regular.ttf"
+  },
+  "theme": {
+    "use_material3": true,
+    "default_mode": "light"
+  }
+}
